@@ -15,10 +15,6 @@ You can click the Preview link to take a look at your changes.
 ## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Projects
 
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">🧠 Algorithms & Data Structures </summary>
-</details>
-
-<details>
   <summary style="font-size: 3rem; font-weight: bold">📊 Data Analytics </summary>
   <ul>
   <li><a href="https://github.com/r4mp4g3r/Brain_Tumor_Detection" alt="TumourDiagnosis">r4mp4g3r/Brain_Tumor_Detection</a>: Based on the Tumours Dataset, one can diagnose if a person has Brain cancer with a 98% accuracy</li>
