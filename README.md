@@ -20,14 +20,17 @@ You can click the Preview link to take a look at your changes.
 
 <details>
   <summary style="font-size: 3rem; font-weight: bold">📊 Data Analytics </summary>
+  <ul>
+  <li><a href="https://github.com/r4mp4g3r/Brain_Tumor_Detection" alt="TumourDiagnosis">r4mp4g3r/Brain_Tumor_Detection</a>: Based on the Tumours Dataset, one can diagnose if a person has Brain cancer with a 98% accuracy</li>
+ </ul>
 </details>
 
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🤖 Machine Learning & Artifical Intelligence</summary>
-</details>
-
-<details>
-  <summary style="font-size: 3rem; font-weight: bold">💻 Others</summary>
+  <ul>
+    <li><a href= "https://github.com/r4mp4g3r/babygenic" alt="Babygenic">r4mp4g3r/BabyGenic</a>: Helped with training the model that converts real-life images into baby photos using AI. Helped with redesigning the UI</li>
+    <li><a href="https://github.com/r4mp4g3r/TextSummariser" alt="TextSummariser">r4mp4g3r/TextSummariser</a>: Created a simple code that uses BART tokenizer to read through a given input text and it outputs a summary of it. Bart uses a standard seq2seq/machine translation architecture with a bidirectional encoder (like BERT) and a left-to-right decoder (like GPT).
+  </ul>
 </details>
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
