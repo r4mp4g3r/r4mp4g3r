@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <details>
-  <summary><b> Advanced AI Algortihm Developer (Intern) | <a href="https://research.sg.panasonic.com" target="_blank">Panasonic Research and Development Center, Singapore</a> | May 2023 - Current (5 months) </b></summary>
+  <summary><b> Advanced AI Algortihm Developer (Intern) | <a href="https://research.sg.panasonic.com" target="_blank">Panasonic Research and Development Center, Singapore</a> | May 2023 - December 2023 (8 months) </b></summary>
   <dl>
    <br/>
    
