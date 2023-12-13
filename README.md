@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://github-readme-stats.vercel.app/api?username=r4mp4g3r&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ram's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=r4mp4g3r&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/r4mp4g3r#gh-light-mode-only)
 
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Projects
+## Projects
 
 <details>
   <summary style="font-size: 3rem; font-weight: bold">📊 Data Analytics </summary>
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   </ul>
 </details>
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
+## Experience
 
 
 <details>
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
   </dl>
 </details>
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Languages and Tools
+## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
