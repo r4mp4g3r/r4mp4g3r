@@ -2,7 +2,7 @@ Hi 👋,  I am Ram, a Year 3 Undergraduate Student from NTU, Singapore
 - 📚 Computer Science Student
 - 🤖 Artificial Intelligence (AI)
 - 💻 Machine Learning (ML)
-- 👨🏻‍💻 1 AI internship experience
+- 👨🏻‍💻 2 AI internship experience
 
 <!---
 r4mp4g3r/r4mp4g3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,8 +29,14 @@ You can click the Preview link to take a look at your changes.
   </ul>
 </details>
 
-## Experience
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">👾 Computer Graphics</summary>
+  <ul>
+    <li><a href= "https://github.com/r4mp4g3r/TSBK11" alt="Computer Graphics">r4mp4g3r/TSBK11</a>: Created a simple traffic simulation with collision detection using OpenGL framework.</li>
+  </ul>
+</details>
 
+## Experience
 
 <details>
   <summary><b> Advanced AI Algortihm Developer (Intern) | <a href="https://research.sg.panasonic.com" target="_blank">Panasonic Research and Development Center, Singapore</a> | May 2023 - December 2023 (8 months) </b></summary>
