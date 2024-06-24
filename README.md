@@ -50,10 +50,13 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-  <summary><b> Advanced AI Data Trainer | <a href="https://www.invisible.co" target="_blank">Invisible Technologies</a> | January 2024 - Current (On-going) </b></summary>
-  <dl>
-  </dl>
+  <summary><b> Advanced AI Data Trainer | <a href="https://www.invisible.co" target="_blank">Invisible Technologies</a> | January 2024 - February 2024 </b></summary>
 </details>
+
+<details>
+  <summary><b> AI Quality Analyst | <a href="https://www.invisible.co" target="_blank">Invisible Technologies</a> | March 2024 - Current (On-going) </b></summary>
+</details>
+
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
