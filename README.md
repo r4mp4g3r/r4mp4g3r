@@ -2,7 +2,7 @@ Hi 👋,  I am Ram, a Year 4 Undergraduate Student from NTU, Singapore
 - 📚 Computer Science Student
 - 🤖 Artificial Intelligence (AI)
 - 💻 Machine Learning (ML)
-- 👨🏻‍💻 3 AI internship experience
+- 👨🏻‍💻 4 AI internship experience
 
 <!---
 r4mp4g3r/r4mp4g3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
