@@ -1,8 +1,8 @@
-Hi 👋,  I am Ram, a Year 3 Undergraduate Student from NTU, Singapore
+Hi 👋,  I am Ram, a Year 4 Undergraduate Student from NTU, Singapore
 - 📚 Computer Science Student
 - 🤖 Artificial Intelligence (AI)
 - 💻 Machine Learning (ML)
-- 👨🏻‍💻 2 AI internship experience
+- 👨🏻‍💻 3 AI internship experience
 
 <!---
 r4mp4g3r/r4mp4g3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
    <br/>
    
       📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-      - Python, C, C++, html, JavaScript
+      - Python, C, C++, html, JavaScript, mySQL, MongoDB, React.js, Node.js
       
   </dl>
 </details>
@@ -55,6 +55,10 @@ You can click the Preview link to take a look at your changes.
 
 <details>
   <summary><b> AI Quality Analyst | <a href="https://www.invisible.co" target="_blank">Invisible Technologies</a> | March 2024 - Current (On-going) </b></summary>
+</details>
+
+<details>
+  <summary><b> Computer Vision Intern | <a href="https://innova8s.com" target="_blank">Innova8s Pte Ltd</a> | August 2024 - Current (On-going) </b></summary>
 </details>
 
 ## Languages and Tools
