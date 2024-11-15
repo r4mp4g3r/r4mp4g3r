@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <summary style="font-size: 3rem; font-weight: bold">📊 Data Analytics </summary>
   <ul>
   <li><a href="https://github.com/r4mp4g3r/Brain_Tumor_Detection" alt="TumourDiagnosis">r4mp4g3r/Brain_Tumor_Detection</a>: Based on the Tumours Dataset, one can diagnose if a person has Brain cancer with a 98% accuracy</li>
-  <li><a href="https://www.producthunt.com/posts/dataauto?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dataauto" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=617473&theme=light" alt="DataAuto - An&#0032;Open&#0045;Source&#0032;Tool&#0032;for&#0032;Streamlined&#0032;Data&#0032;Analysis | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a></li>
+  <li><a href="https://www.producthunt.com/posts/dataauto?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dataauto" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=617473&theme=light" alt="DataAuto - An&#0032;Open&#0045;Source&#0032;Tool&#0032;for&#0032;Streamlined&#0032;Data&#0032;Analysis | Product Hunt" style="width: 185px; height: 54px;" width="250" height="54" /></a></li>
  </ul>
 </details>
 
@@ -38,11 +38,6 @@ You can click the Preview link to take a look at your changes.
   </ul>
 </details>
 
-<details>
-  <summary styl
-  <ul
-    <li><a href="https://www.producthunt.com/posts/dataauto?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dataauto" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=617473&theme=light" alt="DataAuto - An&#0032;Open&#0045;Source&#0032;Tool&#0032;for&#0032;Streamlined&#0032;Data&#0032;Analysis | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-</details>
 
 ## Experience
 
