@@ -83,8 +83,7 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/MySQL-5ac4f2?style=flat-square&logo=mysql&logoColor=darkblue)
 ![Git](https://img.shields.io/badge/-Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-<a href="https://www.producthunt.com/posts/dataauto?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dataauto" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=617473&theme=light" alt="DataAuto - An&#0032;Open&#0045;Source&#0032;Tool&#0032;for&#0032;Streamlined&#0032;Data&#0032;Analysis | Product Hunt" style="width: 185px; height: 50px;" width="185" height="50"/>
-
+<a href="https://www.producthunt.com/posts/dataauto?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dataauto" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=617473&theme=dark" alt="DataAuto - An&#0032;open&#0045;source&#0032;tool&#0032;for&#0032;streamlined&#0032;data&#0032;analysis | Product Hunt" style="width: 185px; height: 50px;" width="185" height="50"/>
 
 ## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
 
