@@ -90,6 +90,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn Badge](https://img.shields.io/badge/-Pachigulla_Ramtej-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pachigulla-ramtej/)](https://www.linkedin.com/in/pachigulla-ramtej/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-RAMTEJ001@e.ntu.edu.sg-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:RAMTEJ001@e.ntu.edu.sg)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/r4mp4g3r?style=social&label=Follow)](https://github.com/r4mp4g3r)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://pachigulla-ramtej.vercel.app)
 
 
 </p>
